@@ -2,6 +2,15 @@
 
 This repository contains an interactive Jupyter notebook that demonstrates an end-to-end workflow for classifying news headlines using NLP techniques. The primary artifact is the notebook [NLP.ipynb](NLP.ipynb), which includes data loading, preprocessing, model training, evaluation, and inference examples.
 
+## Team Members
+
+- **Abdulrahman Ashraf Albelasi**
+- **Omar Mohamed Abdelaal**
+- **Ahmed Khaled Mohamed**
+- **Eyad Othman Mohamed**
+- **Mohamed Ashraf Mohamed**
+
+
 ## Table of Contents
 
 - **Overview:** Short project description and goals
